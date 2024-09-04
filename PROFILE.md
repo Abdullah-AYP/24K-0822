@@ -1,2 +1,2 @@
-Programmin Fundamentals FALL 2024
+Programming Fundamentals FALL 2024
 
